@@ -1,2 +1,2 @@
 # Python-Tutorials-
-This repository is a collection of python tutorials that I learn from them.
+This repository documents my learning journey through various Python tutorials.
